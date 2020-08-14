@@ -1,3 +1,5 @@
 theme: jekyll-theme-hacker
 title: Stephan Auerhahn
 description: Technologist and Enthusiast
+show_downloads: false
+google_analytics: UA-116536875-1
