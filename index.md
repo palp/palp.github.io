@@ -16,4 +16,4 @@ Ballpark estimates are free for projects of low to medium complexity. If a detai
 
 ### Contact
 
-Contact me at palp@palp.org for an estimate or more information.
+Contact me at [consulting@palp.org](mailto:consulting@.palp.org) for an estimate or more information. You can also reach me on [LinkedIn](https://www.linkedin.com/in/stephan-auerhahn-868b8918/)
